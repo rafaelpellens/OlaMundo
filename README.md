@@ -1,5 +1,6 @@
- OlaMundo
- Primeiro repositório para o curso Git / Github
+ Olá, Mundo!
 
- Teste de alterações de arquivo.
+ Primeiro repositório para o curso Git / GitHub.
+
+ Testando histórico de alterações de arquivo.
 
